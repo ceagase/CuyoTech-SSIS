@@ -1,4 +1,3 @@
--- Run this once on an existing ssis database to add term course schedules.
 USE ssis;
 
 CREATE TABLE IF NOT EXISTS course_schedules (
